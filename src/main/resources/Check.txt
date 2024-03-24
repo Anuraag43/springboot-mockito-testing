@@ -1,0 +1,5 @@
+https://github.com/mockito/mockito/wiki/FAQ
+
+https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
+
+https://github.com/in28minutes/spring-unit-testing-with-junit-and-mockito
